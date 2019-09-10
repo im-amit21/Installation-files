@@ -1,0 +1,20 @@
+Documentation for Installation of MySQL.
+
+1. Double Click on mysql-installer 5.7
+2. Agree the licence aggrement
+3. Choosing a setup type as CUSTOM (...Next)
+4. Select product and feature 
+    Click on:- Mysql Server
+    click on:- MySQL Server 5.7
+    select  :- MySQL server 5.7.27-x64 (click on it) and press the first arrow (....Next)
+5. Check Requirements....Execute it
+   Install the Microsoft Visual C++ (...Next)
+6. Installation (....next)
+7. Product Configuration (...next)
+8. High Availability (....next)
+9. Type And Networking (....next)
+10. Accounts and role
+    Set your password (root)
+    If want to add use, add it (Amit/root) (....next)
+11. Windows Service (...next)
+12. Applay Configuration ..Execute it  and Finish.
